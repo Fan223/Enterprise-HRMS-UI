@@ -1,0 +1,41 @@
+.mainHeader {
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 5px grey;
+}
+.mainBody {
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 5px grey;
+  height: 550px;
+  margin-top: 20px;
+}
+.mainMessage {
+  align-items: center;
+  height: 50px;
+}
+.mainMessageLeft {
+  width: 80px;
+  margin-left: 10px;
+}
+.mainMessageRight {
+  width: 150px;
+  margin-right: 32px;
+  margin-top: 15px;
+}
+.mainTable {
+  width: 95%;
+  margin: 0 auto;
+  text-align: center;
+}
+.mainPagination {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.demo-form-inline {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.el-form-item {
+  margin-left: 20px;
+}
